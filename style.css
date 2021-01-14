@@ -11,12 +11,14 @@ body {
 }
 .name1{
     color: rgb(255, 166, 0);
+    color: rgb(136, 202, 66);
 }
 .common{
     color: rgb(12, 12, 71);
+    
 }
 .btn{
-    background-image: linear-gradient(to left,#37d28d,#21b573);
+    background-image: linear-gradient(to left,rgb(136, 202, 66),rgb(123, 170, 73));
     width: 120px;
     height: 40px;
     font-size: small;
