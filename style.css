@@ -1,0 +1,72 @@
+body {
+    font-family: system-ui, system-ui, sans-serif;
+    font-size: 81.25%;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.logo{
+    width: 200px;
+    height: 40px;
+}
+.name1{
+    color: rgb(255, 166, 0);
+}
+.common{
+    color: rgb(12, 12, 71);
+}
+.btn{
+    background-image: linear-gradient(to left,#37d28d,#21b573);
+    width: 120px;
+    height: 40px;
+    font-size: small;
+    border-radius: 5px;
+    color:#ffffff;
+    border: none;
+}
+.button{
+    padding-top: 5px;
+    margin-left: 10px;
+}
+.btn-icon{
+    width: 20px;
+    margin-right: 5px;
+}
+.img1{
+    width: 350px;
+    height: 350px;
+}
+.img2{
+    width: 200px;
+    height: 250px;
+   margin-left: 33.3px;
+}
+.img3{
+    width: 500px;
+    height: 300px;
+}
+.price{
+    margin-left: 10px;
+}
+.icon{
+    width: 70px;
+    padding-right: 10px;
+}
+.icon-section{
+    margin-bottom: 25px;
+    margin-left: 15%
+}
+.footer{
+    background-color: #282531;
+    padding: 20px;
+    color: #ffffff;
+}
+.footpara p{
+    font-size: 13px;
+    margin-bottom: 0;
+}
+.copyright{
+    margin-bottom: 0;
+    padding-bottom:20px;
+    text-align: center;
+}
